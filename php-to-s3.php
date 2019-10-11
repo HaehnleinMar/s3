@@ -26,8 +26,8 @@
     require_once(__DIR__ . "/lib/S3.php");
 
     # Set your AWS credentials here
-    define("AWS_ACCESS_KEY", "77U2S55U2VWERF5BV1HH");
-    define("AWS_SECRET_KEY", "DvkOTiBEqR51gkolhS6M3H9CHkX0fJOtE57PZXYG");
+    define("AWS_ACCESS_KEY", "YOURACCESSKEYHERE");
+    define("AWS_SECRET_KEY", "YOURSECRETKEYHERE");
 
     define("VERSION", "v1.0.0");
 
